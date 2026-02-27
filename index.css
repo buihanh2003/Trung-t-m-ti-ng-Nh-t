@@ -26,8 +26,14 @@
     left: 820px; 
     width: 232px;
     height: 40px;
-    background-color: #d9d9d9;
+    background-color: #ECECED;
     border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: 600;
 }
 body{
     font-family: 'Inter', sans-serif;
